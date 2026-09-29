@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Russia1.ru@HD" group-title="📺 Основные",Россия 1 HD
+https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="NTV.ru@HD" group-title="📺 Основные",НТВ HD
+https://cdn-dvr.ntv.ru/ntv0_hd/index.m3u8
+
+#EXTINF:-1 tvg-id="RussiaK.ru@HD" group-title="📺 Основные",Россия К HD
+https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
+
+#EXTINF:-1 tvg-id="Russia24.ru@SD" group-title="📰 Новости",Россия 24
+https://stream.smotrim.ru/hls2/russia24nl_smotrim/playlist_5.m3u8
+
+#EXTINF:-1 tvg-id="Carousel.ru@SD" group-title="👶 Детские",Карусель
+https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8
+
+#EXTINF:-1 tvg-id="RUTVKids.ru@SD" group-title="👶 Детские",RU.TV Kids
+https://rutvkids.ru/live/efir/index.m3u8
+
+#EXTINF:-1 tvg-id="NTVVitrina.ru@SD" group-title="🎬 Кино и сериалы",НТВ Витрина
+https://cdn.ntv.ru/vitrina/index.m3u8
+
+#EXTINF:-1 tvg-id="5minuttishiny.ru@SD" group-title="🎬 Кино и сериалы",5 минут тишины
+https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
+
+#EXTINF:-1 tvg-id="Balabol.ru@SD" group-title="🎬 Кино и сериалы",Балабол
+https://cdn-dvr.ntv.ru/Balabol/index.m3u8
+
+#EXTINF:-1 tvg-id="Perviyotdel.ru@SD" group-title="🎬 Кино и сериалы",Первый отдел
+https://cdn-dvr.ntv.ru/Perviy_otdel/index.m3u8
+
+#EXTINF:-1 tvg-id="Pes.ru@SD" group-title="🎬 Кино и сериалы",Пёс
+https://cdn-dvr.ntv.ru/Pes/index.m3u8
